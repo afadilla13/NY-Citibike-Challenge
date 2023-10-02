@@ -50,7 +50,7 @@ Now, let's take a look at the stations with the lowest ridership as start statio
 
 [Insert List of Bottom End Stations here]
 
-By analyzing the data, we can identify start stations top and bottom 10 stations based on start usage. These stations are represented by larger and darker-colored markers on the map. The busiest start and end station in Citibike program is Grove St PATH and the least busy stations are listed in the bottom ten.
+By analyzing the data, we can identify stations top and bottom 10 stations based on start and end usage. These stations are represented by larger and darker-colored markers on the map. The busiest start and end station in Citibike program is Grove St PATH and the least busy stations are listed in the bottom ten.
 
 - **Seasonal Trends:** An examination of the impact of seasonality on Citi Bike ridership and the reasons behind usage fluctuations throughout the year.
 
@@ -81,9 +81,29 @@ In 2023, casual ridership started at 1.26% in January and increased to 3.38% by 
 
 - **Peak Hour Analysis:** An overview of the peak hours for Citi Bike ridership and the factors contributing to these trends.
 
+Highest Ridership at 6 pm:
+The data shows that 6 pm is the peak hour for Citi Bike ridership. During this hour, the program experiences the highest number of rides. The key factor contribute to this phenomenon:
+
+End of the Workday: 6 pm typically marks the end of the traditional workday for many people. Commuters, especially those who use Citi Bikes for their daily commute, tend to head home during this time. This creates a surge in ridership as individuals opt for Citi Bikes for their journey home.
+
 - **Ride Duration & Distance Analysis:** An examination of the ride durations and distance for members and casual riders, with insights into the reasons behind observed patterns.
 
-- **Bike Type Preferences & Likely to be the most repaired:** A discussion of the usage patterns of classic, electric, and docked bikes, with insights into the reasons for these preferences and the type of bike that is most likely to be repaired.
+Citibike Trip Analysis:
+The situation where casual riders take longer trips in terms of time but members cover greater distances can be explained by the differences in the nature of their rides and how they use the Citi Bike program:
+
+Ride Behavior:
+Casual riders may take more relaxed, meandering routes, and they may pause to take photos or enjoy the scenery, all of which can extend their ride time.
+Members are more likely to take direct routes and may be more time-conscious, aiming to complete their journeys as quickly as possible, resulting in shorter ride times.
+
+- **Bike Type Preferences & Likely To Be Repaired The Most:** A discussion of the usage patterns of classic, electric, and docked bikes, with insights into the reasons for these preferences and the type of bike that is most likely to be repaired.
+
+Availability and Accessibility:
+Classic bikes are often the most widely available type of bike in bike-sharing programs. They are accessible to a broader range of users and are usually more plentiful at bike stations. This accessibility encourages their usage.
+Electric bikes, while increasingly popular, may not be as readily available in all areas, which can limit their usage. Additionally, electric bikes often have a higher per-minute cost, which may deter some users.
+Docked bikes, on the other hand, might be less available in comparison to dockless bikes (such as classic and electric bikes). Users may need to locate and return them to specific docking stations, which can be less convenient, particularly in areas with limited station coverage.
+
+Most likely to be repaired:
+Even though classic bikes are more common and widely used, electric bikes are likely to be repaired more frequently. Classic bikes are typically sturdy and only require standard maintenance. However Electric bikes may require more specialized maintenance due to their electrical components, including batteries and motors. Electric bikes are likely to be repaired when electrical components or specialized parts need attention, especially because they often have a higher cost and are a preferred choice for riders covering longer distances.
 
 ## Tableau Story
 
