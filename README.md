@@ -92,13 +92,13 @@ Members are more likely to take direct routes and may be more time-conscious, ai
 
 - **Bike Type Preferences & Likely To Be Repaired The Most:** A discussion of the usage patterns of classic, electric, and docked bikes, with insights into the reasons for these preferences and the type of bike that is most likely to be repaired.
 
-**Availability and Accessibility:**
-Classic bikes are often the most widely available type of bike in bike-sharing programs. They are accessible to a broader range of users and are usually more plentiful at bike stations. This accessibility encourages their usage.
-Electric bikes, while increasingly popular, may not be as readily available in all areas, which can limit their usage. Additionally, electric bikes often have a higher per-minute cost, which may deter some users.
-Docked bikes, on the other hand, might be less available in comparison to dockless bikes (such as classic and electric bikes). Users may need to locate and return them to specific docking stations, which can be less convenient, particularly in areas with limited station coverage.
+  **Availability and Accessibility:**
+  Classic bikes are often the most widely available type of bike in bike-sharing programs. They are accessible to a broader range of users and are usually more plentiful at bike stations. This accessibility encourages     their usage.
+  Electric bikes, while increasingly popular, may not be as readily available in all areas, which can limit their usage. Additionally, electric bikes often have a higher per-minute cost, which may deter some users.
+  Docked bikes, on the other hand, might be less available in comparison to dockless bikes (such as classic and electric bikes). Users may need to locate and return them to specific docking stations, which can be less     convenient, particularly in areas with limited station coverage.
 
-**Most likely to be repaired:**
-Even though classic bikes are more common and widely used, electric bikes are likely to be repaired more frequently. Classic bikes are typically sturdy and only require standard maintenance. However Electric bikes may require more specialized maintenance due to their electrical components, including batteries and motors. Electric bikes are likely to be repaired when electrical components or specialized parts need attention, especially because they often have a higher cost and are a preferred choice for riders covering longer distances.
+  **Most likely to be repaired:**
+  Even though classic bikes are more common and widely used, electric bikes are likely to be repaired more frequently. Classic bikes are typically sturdy and only require standard maintenance. However Electric bikes may   require more specialized maintenance due to their electrical components, including batteries and motors. Electric bikes are likely to be repaired when electrical components or specialized parts need attention,           especially because they often have a higher cost and are a preferred choice for riders covering longer distances.
 
 ## Tableau Story
 
