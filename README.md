@@ -25,7 +25,8 @@ The analysis covers the following key aspects:
 
 To visualize the distribution of start and end stations, I've created map clusters for both. These clusters provide insights into the most popular locations for starting and ending Citi Bike rides.
 
-[Insert Interactive Map Cluster for Start Stations here]
+![Screenshot 2023-10-02 233136](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/38ec52d9-5886-410e-b87d-9b4d3b5739b8)
+
 [Insert Interactive Map Cluster for End Stations here]
 
 The map reveals specific areas within the city that serve as hotspots for Citi Bike ridership especially when users initiate their bike trips. These are characterized by dense clusters of bike stations and high user activity. Such hotspots are often located near transit hubs, tourist attractions, and densely populated neighborhoods.
