@@ -29,7 +29,7 @@ To visualize the distribution of start and end stations, I've created map cluste
 
 ![Map_End_Station](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/6e09ee63-f0e2-4f04-ae42-44986d767240)
 
-The map reveals specific areas within the city that serve as hotspots for Citi Bike ridership, especially when users initiate their bike trips. These are characterized by dense clusters of bike stations and high user activity, often located near transit hubs, tourist attractions, and densely populated neighborhoods.
+The map reveals specific areas within the city that serve as hotspots for Citi Bike ridership, especially when users initiate and terminate their bike trips. These are characterized by dense clusters of bike stations and high user activity, often located near transit hubs, tourist attractions, and densely populated neighborhoods.
 
 ### Top and Bottom Stations
 
