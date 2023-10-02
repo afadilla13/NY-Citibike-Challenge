@@ -15,7 +15,7 @@ This repository contains an analysis of New York City's Citi Bike rides based on
 
 ## Data
 
-The data used for this analysis was collected from the Citi Bike program and includes detailed information on ride duration, user types (members and casual riders), bike types (classic, electric, and docked), and monthly ridership, below is the link.
+The data used for this analysis was collected from the Citi Bike program and includes detailed information on ride duration, user types (members and casual riders), bike types (classic, electric, and docked), and monthly ridership, here is the link where you can download the data:
 [Citi Bike NYC System Data](https://citibikenyc.com/system-data)
 
 ## Analysis
