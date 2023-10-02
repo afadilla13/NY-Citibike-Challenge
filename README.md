@@ -40,55 +40,55 @@ Let's also explore the top and bottom stations based on various metrics like rid
 
 ![Dashboard 2](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/3f0500aa-bad8-479d-ad72-08f68095f43e)
 
-By analyzing the data, we can identify stations top and bottom 10 stations based on start and end usage. These stations are represented by larger and darker-colored markers on the map. The busiest start and end station in Citibike program is Grove St PATH and the least busy stations are listed in the bottom ten.
+By analyzing the data, we can identify stations top and bottom 10 stations based on start and end usage. These stations are represented by larger and darker-colored markers on the map. The busiest start and end          station in Citibike program is Grove St PATH and the least busy stations are listed in the bottom ten.
 
 - **Seasonal Trends:** An examination of the impact of seasonality on Citi Bike ridership and the reasons behind usage fluctuations throughout the year.
 
-One of the standout observations from our analysis is the pronounced seasonality in Citi Bike program usage, with the period from May to October consistently marking the highest ridership levels. 
+  One of the standout observations from our analysis is the pronounced seasonality in Citi Bike program usage, with the period from May to October consistently marking the highest ridership levels. 
 
 - **Count Ride Analysis:** An exploration on the total number of rides for the analysed period.
 
 ![Dashboard 3](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/7bea6c3b-8efa-4aab-9401-f438a4ab9201)
 
-**The total ride count for the period analyst was: 977, 641.**
+  **The total ride count for the period analyst was: 977, 641.**
 
-**Decline in Late 2022:**
-From August to December 2022, there is a consistent decline in ridership. The total ridership drops from 114,840 in August to 48,377 in December. This represents a substantial decrease of approximately 58% over these five months.
+  **Decline in Late 2022:**
+  From August to December 2022, there is a consistent decline in ridership. The total ridership drops from 114,840 in August to 48,377 in December. This represents a substantial decrease of approximately 58% over these    five months.
 
-**Recovery and Growth in Early 2023:**
-The decline continues into January and February 2023, with ridership hitting its lowest point at 51,069 in February. However, in March, there is a notable uptick in ridership, and it continues to grow. From March to July 2023, ridership increases significantly by approximately 107%.
+  **Recovery and Growth in Early 2023:**
+  The decline continues into January and February 2023, with ridership hitting its lowest point at 51,069 in February. However, in March, there is a notable uptick in ridership, and it continues to grow. From March to     July 2023, ridership increases significantly by approximately 107%.
 
-**Peak Season in Summer:**
-The summer months of June and July 2023 mark the highest ridership, with 96,662 and 106,216 rides, respectively. This could be due to favorable weather conditions, increased tourism, and outdoor activities, driving more people to use Citi Bikes.
+  **Peak Season in Summer:**
+  The summer months of June and July 2023 mark the highest ridership, with 96,662 and 106,216 rides, respectively. This could be due to favorable weather conditions, increased tourism, and outdoor activities, driving      more people to use Citi Bikes.
 
 - **Percentage Grown Analysis:** An exploration of how members and casual riders differ in terms of rides during the analysed period.
 
-**Member Ridership:**
-In August 2022, member ridership accounted for 7.32% of the total riders, which gradually declined to 3.75% by December 2022.
-In January 2023, there was a slight recovery, with member ridership at 4.45%. This trend continued, with member ridership gradually increasing, reaching 7.49% in July 2023.
+  **Member Ridership:**
+  In August 2022, member ridership accounted for 7.32% of the total riders, which gradually declined to 3.75% by December 2022.
+  In January 2023, there was a slight recovery, with member ridership at 4.45%. This trend continued, with member ridership gradually increasing, reaching 7.49% in July 2023.
 
-**Casual Ridership:**
-Casual ridership in August 2022 was 4.43% of the total rides, but it steadily decreased to 1.20% by December 2022.
-In 2023, casual ridership started at 1.26% in January and increased to 3.38% by July.
+  **Casual Ridership:**
+  Casual ridership in August 2022 was 4.43% of the total rides, but it steadily decreased to 1.20% by December 2022.
+  In 2023, casual ridership started at 1.26% in January and increased to 3.38% by July.
 
 - **Peak Hour Analysis:** An overview of the peak hours for Citi Bike ridership and the factors contributing to these trends.
 
-**Highest Ridership at 6 pm:**
-The data shows that 6 pm is the peak hour for Citi Bike ridership. During this hour, the program experiences the highest number of rides. The key factor contribute to this phenomenon:
+  **Highest Ridership at 6 pm:**
+  The data shows that 6 pm is the peak hour for Citi Bike ridership. During this hour, the program experiences the highest number of rides. The key factor contribute to this phenomenon:
 
-**End of the Workday:** 
-6 pm typically marks the end of the traditional workday for many people. Commuters, especially those who use Citi Bikes for their daily commute, tend to head home during this time. This creates a surge in ridership as individuals opt for Citi Bikes for their journey home.
+  **End of the Workday:** 
+  6 pm typically marks the end of the traditional workday for many people. Commuters, especially those who use Citi Bikes for their daily commute, tend to head home during this time. This creates a surge in ridership as   individuals opt for Citi Bikes for their journey home.
 
 - **Ride Duration & Distance Analysis:** An examination of the ride durations and distance for members and casual riders, with insights into the reasons behind observed patterns.
 
 ![Dashboard 4](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/cf62e23b-6031-4876-935e-279b91ba690d)
 
-**Citibike Trip Analysis:**
-The situation where casual riders take longer trips in terms of time but members cover greater distances can be explained by the differences in the nature of their rides and how they use the Citi Bike program:
+  **Citibike Trip Analysis:**
+  The situation where casual riders take longer trips in terms of time but members cover greater distances can be explained by the differences in the nature of their rides and how they use the Citi Bike program:
 
-**Ride Behavior:**
-Casual riders may take more relaxed, meandering routes, and they may pause to take photos or enjoy the scenery, all of which can extend their ride time.
-Members are more likely to take direct routes and may be more time-conscious, aiming to complete their journeys as quickly as possible, resulting in shorter ride times.
+  **Ride Behavior:**
+  Casual riders may take more relaxed, meandering routes, and they may pause to take photos or enjoy the scenery, all of which can extend their ride time.
+  Members are more likely to take direct routes and may be more time-conscious, aiming to complete their journeys as quickly as possible, resulting in shorter ride times.
 
 - **Bike Type Preferences & Likely To Be Repaired The Most:** A discussion of the usage patterns of classic, electric, and docked bikes, with insights into the reasons for these preferences and the type of bike that is most likely to be repaired.
 
