@@ -25,7 +25,9 @@ The analysis covers the following key aspects:
 
 To visualize the distribution of start and end stations, I've created map clusters for both. These clusters provide insights into the most popular locations for starting and ending Citi Bike rides.
 
-[Insert Interactive Map Cluster for End Stations here]
+![Map_Start_Station](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/dedbcb74-d024-4fe5-b4f0-0130a530efa0)
+
+![Map_End_Station](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/6e09ee63-f0e2-4f04-ae42-44986d767240)
 
 The map reveals specific areas within the city that serve as hotspots for Citi Bike ridership especially when users initiate their bike trips. These are characterized by dense clusters of bike stations and high user activity. Such hotspots are often located near transit hubs, tourist attractions, and densely populated neighborhoods.
 
@@ -33,21 +35,9 @@ The map reveals specific areas within the city that serve as hotspots for Citi B
 
 Let's also explore the top and bottom stations based on various metrics like ridership, ride duration, and user types. This will help us understand the most and least active stations in the Citi Bike network.
 
-#### Top 10 Start & End Stations
+![Dashboard 1](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/0988cfaa-b66a-43f0-8018-950d958fe2e7)
 
-Here are the top start stations based on ridership:
-
-[Insert List of Top Start Stations here]
-
-[Insert List of Top End Stations here]
-
-#### Bottom 10 Start & End Stations
-
-Now, let's take a look at the stations with the lowest ridership as start stations:
-
-[Insert List of Bottom Start Stations here]
-
-[Insert List of Bottom End Stations here]
+![Dashboard 2](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/3f0500aa-bad8-479d-ad72-08f68095f43e)
 
 By analyzing the data, we can identify stations top and bottom 10 stations based on start and end usage. These stations are represented by larger and darker-colored markers on the map. The busiest start and end station in Citibike program is Grove St PATH and the least busy stations are listed in the bottom ten.
 
@@ -56,6 +46,8 @@ By analyzing the data, we can identify stations top and bottom 10 stations based
 One of the standout observations from our analysis is the pronounced seasonality in Citi Bike program usage, with the period from May to October consistently marking the highest ridership levels. 
 
 - **Count Ride Analysis:** An exploration on the total number of rides for the analysed period.
+
+![Dashboard 3](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/7bea6c3b-8efa-4aab-9401-f438a4ab9201)
 
 The total ride count for the period analyst was: 977, 641.
 
@@ -86,6 +78,8 @@ The data shows that 6 pm is the peak hour for Citi Bike ridership. During this h
 End of the Workday: 6 pm typically marks the end of the traditional workday for many people. Commuters, especially those who use Citi Bikes for their daily commute, tend to head home during this time. This creates a surge in ridership as individuals opt for Citi Bikes for their journey home.
 
 - **Ride Duration & Distance Analysis:** An examination of the ride durations and distance for members and casual riders, with insights into the reasons behind observed patterns.
+
+![Dashboard 4](https://github.com/afadilla13/NY-Citibike-Challenge/assets/128363337/cf62e23b-6031-4876-935e-279b91ba690d)
 
 Citibike Trip Analysis:
 The situation where casual riders take longer trips in terms of time but members cover greater distances can be explained by the differences in the nature of their rides and how they use the Citi Bike program:
